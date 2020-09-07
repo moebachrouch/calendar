@@ -1,5 +1,5 @@
 # calendar
-Programming a calendar using Java.
+Programming a command line calendar using Java.
 
 This project was done with the help of Listing 6.2 in Introduction to Java Programming by Y. Daniel Liang.
 
